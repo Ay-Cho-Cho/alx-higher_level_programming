@@ -1,1 +1,3 @@
-0-list_databases.sql
+-- list all databases on mysql server
+-- list all databases on mysql server
+SHOW DATABASES;
